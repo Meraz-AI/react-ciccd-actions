@@ -2,7 +2,7 @@ name: Testing
 on: push
 #on: workflow_dispatch
 jobs:
-    greet:
+    Workflow:
         runs-on: windows-latest
         steps:
             - name: "Github Action"
